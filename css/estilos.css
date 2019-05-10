@@ -1,0 +1,33 @@
+
+	body
+  {
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+
+  }
+	div{
+		margin-top: 10px;
+		margin-left: 200px;
+	}
+footer {
+	margin-top: 50px;
+}
+img {
+	border-radius: 10;
+}
+#datos{
+
+}
+#informacion{
+font-family: arial;
+}
+#pie {
+	font-family: helvetica;
+	font-size: 16;
+}
+#encabesado
+{
+	display: block;
+	margin: 1 auto;
+}
