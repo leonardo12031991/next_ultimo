@@ -14,20 +14,46 @@ footer {
 	margin-top: 50px;
 }
 img {
-	border-radius: 10;
+	border-radius: 50px;
 }
 #datos{
+font-family: helvetica;
+color: red;
 
 }
 #informacion{
 font-family: arial;
+color: green;
 }
 #pie {
 	font-family: helvetica;
 	font-size: 16;
+	color: blue;
 }
 #encabesado
 {
 	display: block;
 	margin: 1 auto;
+}
+*{
+	margin: 1vh 1vw;
+}
+h1+h2{
+	text-decoration: underline;
+}
+section> h2 {
+	text-decoration: underline;
+}
+body{
+	margin-left: 1px
+}
+#cuerpo {
+	margin-left: 1px
+}
+#mifoto{
+	margin-right: 20px
+}
+#educacion {
+	font-family: helvetica;
+ color: orange;
 }
